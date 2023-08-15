@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file alias="1">C:/Users/Administrator/Downloads/20090524154817175.jpg</file>
+        <file alias="2">C:/Users/Administrator/Downloads/20101028083026110.jpg</file>
+        <file alias="3">C:/Users/Administrator/Downloads/R-C (1).jpg</file>
+        <file alias="4">C:/Users/Administrator/Downloads/20091223150102851.jpg</file>
+        <file alias="5">C:/Users/Administrator/Downloads/R-C.jpg</file>
+        <file alias="6">C:/Users/Administrator/Downloads/01f71a5a7a6b77a8012045b3db453d.jpg@2o.jpg</file>
+    </qresource>
+</RCC>
